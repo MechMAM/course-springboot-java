@@ -6,6 +6,5 @@ import com.javacourse.course.entities.User1;
 
 public interface UserRepository extends JpaRepository<User1, Long>{
 	
-	
 
 }
